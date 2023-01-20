@@ -22,3 +22,6 @@ These rules are made concrete in an algorithm called verification, which detects
 and which don't. A key goal of verification is to detect invalid programs even before they run. Only programs that
 are approved by the verification algorithm run. This prevents malicious or mistaken software from doing
 unpleasant things: it never gets a chance to run.
+
+برای اینکه بهتر با این مشکل آشنا بشیم بهتر هستش که نگاهی به کد زیر بندازیم :
+فرض کنید قرار است
